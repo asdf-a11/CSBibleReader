@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testgpu_spinning_cube.dir/testgpu_spinning_cube.c.o -o testgpu_spinning_cube  ../libSDL3_test.a ../libSDL3.a -lm 

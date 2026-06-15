@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testviewport.dir/testviewport.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testviewport  ../libSDL3_test.a ../libSDL3.a -lm 

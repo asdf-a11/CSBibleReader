@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testsensor.dir/testsensor.c.o -o testsensor  ../libSDL3_test.a ../libSDL3.a -lm 

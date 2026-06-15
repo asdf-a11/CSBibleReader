@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testshape.dir/testshape.c.o -o testshape  ../libSDL3_test.a ../libSDL3.a -lm 

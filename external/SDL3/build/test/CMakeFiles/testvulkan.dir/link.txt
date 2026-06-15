@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testvulkan.dir/testvulkan.c.o -o testvulkan  ../libSDL3_test.a ../libSDL3.a -lm 

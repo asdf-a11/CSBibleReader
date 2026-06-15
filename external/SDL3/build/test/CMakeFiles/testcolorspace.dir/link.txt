@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testcolorspace.dir/testcolorspace.c.o -o testcolorspace  ../libSDL3_test.a ../libSDL3.a -lm 

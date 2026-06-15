@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testmodal.dir/testmodal.c.o -o testmodal  ../libSDL3_test.a ../libSDL3.a -lm 

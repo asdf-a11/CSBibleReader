@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testmanymouse.dir/testmanymouse.c.o -o testmanymouse  ../libSDL3_test.a ../libSDL3.a -lm 

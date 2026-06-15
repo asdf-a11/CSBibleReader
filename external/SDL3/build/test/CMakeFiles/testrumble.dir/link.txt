@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testrumble.dir/testrumble.c.o -o testrumble  ../libSDL3_test.a ../libSDL3.a -lm 

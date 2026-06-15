@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testscale.dir/testscale.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testscale  ../libSDL3_test.a ../libSDL3.a -lm 

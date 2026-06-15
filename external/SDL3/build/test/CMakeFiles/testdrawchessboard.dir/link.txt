@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testdrawchessboard.dir/testdrawchessboard.c.o -o testdrawchessboard  ../libSDL3_test.a ../libSDL3.a -lm 

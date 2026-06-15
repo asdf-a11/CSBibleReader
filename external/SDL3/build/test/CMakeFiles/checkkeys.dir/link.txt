@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/checkkeys.dir/checkkeys.c.o -o checkkeys  ../libSDL3_test.a ../libSDL3.a -lm 

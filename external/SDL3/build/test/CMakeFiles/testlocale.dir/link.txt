@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testlocale.dir/testlocale.c.o -o testlocale  ../libSDL3_test.a ../libSDL3.a -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testyuv.dir/testyuv.c.o CMakeFiles/testyuv.dir/testyuv_cvt.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testyuv  ../libSDL3_test.a ../libSDL3.a -lm 

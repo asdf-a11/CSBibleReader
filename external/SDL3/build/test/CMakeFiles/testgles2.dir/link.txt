@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testgles2.dir/testgles2.c.o -o testgles2  ../libSDL3_test.a ../libSDL3.a -lm 

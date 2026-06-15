@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testasyncio.dir/testasyncio.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testasyncio  ../libSDL3_test.a ../libSDL3.a -lm 

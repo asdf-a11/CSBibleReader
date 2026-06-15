@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testfilesystem.dir/testfilesystem.c.o -o testfilesystem  ../libSDL3_test.a ../libSDL3.a -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testloadso.dir/testloadso.c.o -o testloadso  ../libSDL3_test.a ../libSDL3.a -lm 

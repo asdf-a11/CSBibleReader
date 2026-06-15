@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testspriteminimal.dir/testspriteminimal.c.o -o testspriteminimal  ../libSDL3_test.a ../libSDL3.a -lm 

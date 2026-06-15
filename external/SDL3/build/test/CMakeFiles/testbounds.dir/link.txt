@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testbounds.dir/testbounds.c.o -o testbounds  ../libSDL3_test.a ../libSDL3.a -lm 

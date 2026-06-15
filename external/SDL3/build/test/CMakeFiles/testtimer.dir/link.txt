@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testtimer.dir/testtimer.c.o -o testtimer  ../libSDL3_test.a ../libSDL3.a -lm 

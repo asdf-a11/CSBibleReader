@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testgpurender_msdf.dir/testgpurender_msdf.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testgpurender_msdf  ../libSDL3_test.a ../libSDL3.a -lm 

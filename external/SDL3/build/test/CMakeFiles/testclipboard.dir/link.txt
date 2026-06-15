@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testclipboard.dir/testclipboard.c.o -o testclipboard  ../libSDL3_test.a ../libSDL3.a -lm 

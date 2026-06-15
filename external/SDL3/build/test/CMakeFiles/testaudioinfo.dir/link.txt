@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testaudioinfo.dir/testaudioinfo.c.o -o testaudioinfo  ../libSDL3_test.a ../libSDL3.a -lm 

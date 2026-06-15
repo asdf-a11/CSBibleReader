@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -pthread CMakeFiles/testcontroller.dir/testcontroller.c.o CMakeFiles/testcontroller.dir/gamepadutils.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testcontroller  ../libSDL3_test.a ../libSDL3.a -lm 
